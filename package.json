@@ -1,0 +1,24 @@
+{
+  "name": "simple-sharex",
+  "version": "1.0.0",
+  "description": "A simple sharex upload server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13ace37/simple-sharex.git"
+  },
+  "author": "Riccardo \"ace\" H.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/13ace37/simple-sharex/issues"
+  },
+  "homepage": "https://github.com/13ace37/simple-sharex#readme",
+  "dependencies": {
+    "command-line-args": "^5.2.1",
+    "fastify": "^3.27.4",
+    "fastify-multipart": "^5.3.1"
+  }
+}
